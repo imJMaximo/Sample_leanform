@@ -1,0 +1,10 @@
+html, body{
+	margin: 100px;
+}
+
+.container{
+	position: center;
+}
+.box{
+	background-color: orange;
+}
